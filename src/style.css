@@ -26,3 +26,9 @@ body {
     font-size: 15px;
   }
 }
+
+/* nie dziala nie wiem czemu
+svg {
+    color: hsl(259, 100%, 65%);
+}
+*/
