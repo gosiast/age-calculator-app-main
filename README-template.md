@@ -93,7 +93,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [HMTL semantic skeleton](https://www.linkedin.com/pulse/sample-semantic-website-html-skeleton-%C5%82ukasz-j%C4%99drasiak/) - This helped me refresh my memory about HTML and the semantics.
 - [Age Calculator Using JavaScript](https://www.codewithrandom.com/2023/03/28/age-calculator-javascript-age-calculator-using-html-css-javascript/) - This article helped me understand why I couldn't align each elements to be next to each other. 
-
+- [Age Calculator Possible solution](https://www.youtube.com/watch?v=zEU_NtZK9-c&ab_channel=CodewithAli) - thanks to Code with Ali channel I could see another idea how to improve the alignment of elements.
 
 ## Author
 
@@ -104,3 +104,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 Thank you Foolish Developer (https://dev.to/code_mystery/javascript-age-calculator-calculate-age-from-date-of-birth-o9b) your solution was very helpful when I got stuck!
 
+Thank you Code with Ali (https://www.youtube.com/@YTCodewithAli), your solution was really helpful!
