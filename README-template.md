@@ -92,7 +92,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [HMTL semantic skeleton](https://www.linkedin.com/pulse/sample-semantic-website-html-skeleton-%C5%82ukasz-j%C4%99drasiak/) - This helped me refresh my memory about HTML and the semantics.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Age Calculator Using JavaScript](https://www.codewithrandom.com/2023/03/28/age-calculator-javascript-age-calculator-using-html-css-javascript/) - This article helped me understand why I couldn't align each elements to be next to each other. 
 
 
 ## Author
