@@ -53,8 +53,7 @@ footer {
   text-align: center;
 }
 
-/* nie dziala nie wiem czemu
-svg {
-    color: hsl(259, 100%, 65%);
+
+button img {
+    fill: hsl(259, 100%, 65%);
 }
-*/
