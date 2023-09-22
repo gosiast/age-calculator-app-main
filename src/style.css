@@ -10,8 +10,8 @@ body {
 .calculator-container {
   display: flex;
   flex-direction: column;
-  width: 520px;
   height: auto;
+  max-width: 520px;
   margin: 100px auto;
   padding: 2rem;
   background-color: #ffffff;
@@ -27,12 +27,21 @@ form {
   display: flex;
   gap: 1rem;
 }
-/*https://developer.mozilla.org/en-US/docs/Web/CSS/gap*/
+.form-output-wrapper {
+  display: flex;
+  flex-direction: column; /* Stack the form and output vertically */
+}
+input {
+  width: 100px; /* Adjust the width as needed */
+  padding: 8px; /* Adjust the padding as needed */
+  font-size: 10px;
+  text-align: left;
+  font-weight: bold; /* Adjust the font size as needed */
+}
 
 .block {
   display: flex;
   flex-direction: column;
-  font-size: 32px;
 
   .title {
     font-size: 15px;
