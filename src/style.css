@@ -57,3 +57,11 @@ footer {
 button img {
     fill: hsl(259, 100%, 65%);
 }
+
+@media screen and (max-width:600px) {
+  .calculator-container {
+    max-width: 360px;
+  }
+  
+
+}
